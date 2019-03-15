@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 20px;
+  cursor:pointer;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 3px;
+}
+
+.footer {
+  position: fixed;
+  height: 30px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  background-color: blueviolet;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.btn {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 3px;
+}
+
+.btnBody {
+  background-color: red; 
+  border: none;
+  color: white;
+  padding: 35px 52px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  position: relative;
+  top: 200px;
+
+}

@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 20px;
+  cursor:pointer;
+}
+
+Footer {
+  position: fixed;
+  height: 30px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  background-color: aliceblue;
+}

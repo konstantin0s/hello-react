@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 20px;
+}
